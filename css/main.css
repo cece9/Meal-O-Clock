@@ -19,7 +19,7 @@ h2 {
 }
 
 h3 {
-
+  font-size: 20px;
 }
 
 h4 {
@@ -111,7 +111,6 @@ a:active {
   margin-bottom: 10px;
 }
 
-.small-icon {
-  padding-left: 7px;
-  padding-right: 7px;
+.img-thumbnail {
+  margin-right: 20px;
 }
